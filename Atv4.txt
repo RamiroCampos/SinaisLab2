@@ -1,0 +1,12 @@
+1. Ao reproduzir o script original, sai o som de uma buzina!!!
+Frequencias:
+C3 = 130813 Hz
+G3 = 195998 Hz 
+C4 = 261626 Hz
+E4 = 329628 HZ
+G4 = 391995 Hz
+
+>>Atv4(130813,195998 ,261626 ,329628 ,391995 ) 
+-> sai um zumbido agudo
+>>Atv4(130.813,195.998 ,261.626 ,329.628 ,391.995 )
+-> parece uma corda vibrando

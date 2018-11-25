@@ -1,0 +1,5 @@
+1. Mudando a diferença na frequência para 2Hz, fazendo f1 = 300 e f2 = 302, e dps f1 = 308 e f2 = 310, ouviu-se o mesmo som, igual a quando a diferença era de 10Hz
+
+2. o Mesmo som
+
+3. O som ficou mais alto

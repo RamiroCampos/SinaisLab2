@@ -1,0 +1,4 @@
+1.o som original é mudo, pois y1 = -y2, o que faz as ondas se anularem
+1.fazendo os sons y1 e y2 terem diferença de 1Hz nas frequências produz o mesmo gráfico, e gera um som como se alguem estivesse periodicamente tocando uma nota
+
+2.Alterando para 179 ou 181 , ouviu-se o mesmo som, um zumbido contínuo, não muito alto
